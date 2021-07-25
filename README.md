@@ -18,5 +18,4 @@ The iterator implements __next__ and __iter__ methods.
 
 Once the iterator passed through the last item in the the iterable, it will give a stopiteration error
 
-You can get the link of the notebook in following DeepNote Link - https://deepnote.com/project/Untitled-Python-Project-5tiowEzAQom08ZIVTmIEmA/%2FIterator%20and%20Iterable%20Session.ipynb
 
